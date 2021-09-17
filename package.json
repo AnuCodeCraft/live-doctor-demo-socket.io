@@ -1,0 +1,11 @@
+{
+  "name": "socket-online-offline-v3.x-main",
+  "version": "1.0.0",
+  "description": "socket.io determine if a user is online or offline, <br> Stack Overflow Question - https://stackoverflow.com/questions/32134623/socket-io-determine-if-a-user-is-online-or-offline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
